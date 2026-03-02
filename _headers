@@ -1,2 +1,2 @@
-/src/app/*.mobileconfig
+*.mobileconfig
   Content-Type: application/x-apple-aspen-config
